@@ -1,0 +1,16 @@
+Уязвимые камеры наблюдения можно отыскать
+через Google или другой поисковик с помощью
+продвинутых запросов. Например:
+inurl:«wvhttp-01»
+inurl:«viewerframe?mode=»
+inurl:«videostream.cgi»
+inurl:«webcapture»
+inurl:«snap.jpg»
+inurl:«snapshot.jpg»
+inurl:«video.mjpg»
+
+netcam city:Moscow,
+netcam country:RU,
+webcamxp geo:55.45,37.37,
+linux upnp avtech
+
